@@ -1,5 +1,19 @@
 {
-    "salas": [{"numero":2, "clienteID": 1, "poltronasID":1},{"numero":3, "clienteID": 2, "poltronasID":2},{"numero":4, "clienteID": 3, "poltronasID":3}],
-    "funcionarios":[{"nome": "João" , "cargo": "gerente", "matricula": "1"},{"nome": "Gabriel" , "cargo": "atendente", "matricula": "2"},{"nome": "Adriana" , "cargo": "segurança", "matricula": "3"}],
-    "clientes":[{"nome":"Lucas", "cpf": "22233344455" , "id": 1},{"nome":"Clarice", "cpf": "21132344455" , "id": 2}, {"nome":"Carlos", "cpf": "22233300055" , "id": 3}]
+  "salas": [
+    { "numero": 2, "clienteID": 1, "poltronasID": 1 },
+    { "numero": 3, "clienteID": 2, "poltronasID": 2 },
+    { "numero": 4, "clienteID": 3, "poltronasID": 3 }
+  ],
+
+  "funcionarios": [
+    { "nome": "João", "cargo": "gerente", "matricula": 1 },
+    { "nome": "Gabriel", "cargo": "atendente", "matricula": 2 },
+    { "nome": "Adriana", "cargo": "segurança", "matricula": 3 }
+  ],
+
+  "clientes": [
+    { "nome": "Lucas", "cpf": "22233344455", "id": 1 },
+    { "nome": "Clarice", "cpf": "21132344455", "id": 2 },
+    { "nome": "Carlos", "cpf": "22233300055", "id": 3 }
+  ]
 }
