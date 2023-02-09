@@ -1,0 +1,18 @@
+{
+    
+"/salas/list": "/salas/",
+"/salas/create": "/salas/",
+"/salas/update/:id": "/salas/",
+"/salas/delete/:id": "/salas/:id",
+
+"/funcionarios/list": "/funcionarios/",
+"/funcionarios/create": "/funcionarios/",
+"/funcionarios/update/:id": "/funcionarios/",
+"/funcionarios/delete/:id": "/funcionarios/:id",
+
+"/clientes/list": "/clientes/",
+"/clientes/create": "/clientes/",
+"/clientes/update/:id": "/clientes/",
+"/clientes/delete/:id":"/clientes/:id"
+
+}
