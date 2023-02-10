@@ -2,17 +2,17 @@
     
 "/salas/list": "/salas/",
 "/salas/create": "/salas/",
-"/salas/update/:id": "/salas/",
+"/salas/update/:id": "/salas/:id",
 "/salas/delete/:id": "/salas/:id",
 
 "/funcionarios/list": "/funcionarios/",
 "/funcionarios/create": "/funcionarios/",
-"/funcionarios/update/:id": "/funcionarios/",
+"/funcionarios/update/:id": "/funcionarios/:id",
 "/funcionarios/delete/:id": "/funcionarios/:id",
 
 "/clientes/list": "/clientes/",
 "/clientes/create": "/clientes/",
-"/clientes/update/:id": "/clientes/",
+"/clientes/update/:id": "/clientes/:id",
 "/clientes/delete/:id":"/clientes/:id"
 
 }
