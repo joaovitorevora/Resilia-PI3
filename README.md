@@ -48,10 +48,10 @@ Desenvolver um servidor de teste (json-server) contendo 2 ou mais rotas nas quai
 Para realizar nossa primeira requisição, vamos pressionar o botão com um símbolo de mais (+) e então clicar em “New Request”<br>
 ![insomnia.png](https://www.imagemhost.com.br/images/2023/02/10/insomnia.png)
 
-O painel à nossa direita será aberto. Nele, poderemos informar a URL da nossa API na parte superior, ao lado do método, que neste caso é “GET”. A URL de nossa API para listar os funcionarios é http://localhost:3000/funcionarios
+O painel à nossa direita será aberto. Nele, poderemos informar a URL da nossa API na parte superior, ao lado do método, que neste caso é “GET”. A URL de nossa API para listar os funcionarios é http://localhost:3000/funcionarios<br>
 [![imageb6a86a21cfe69c74.png](https://www.imagemhost.com.br/images/2023/02/10/imageb6a86a21cfe69c74.png)](https://www.imagemhost.com.br/image/rI714J)
 
-Após informar o endereço da API, basta clicar em “Send”. Em seguida, o painel mais à direita nos retornará os dados:
+Após informar o endereço da API, basta clicar em “Send”. Em seguida, o painel mais à direita nos retornará os dados:<br>
 ![imagea04b39a165ece69f.png](https://www.imagemhost.com.br/images/2023/02/10/imagea04b39a165ece69f.png)
 
 ## 🦸‍♂️ Autor
